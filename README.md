@@ -1,7 +1,7 @@
 # Django--ContactList-App
 
-# 👣 **Awesome python projects**
-### 🧐 A collection of super-cool Python projects for starters!! ✨
+# 👣 **Awesome Django project**
+### 🧐Beginner Django project!! ✨
 
 ![Author](https://img.shields.io/badge/author-ZaidArman-orange)
 
