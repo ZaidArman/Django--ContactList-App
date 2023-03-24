@@ -1,8 +1,5 @@
 # Django--ContactList-App
 
-https://coursera.org/share/090996be84bc89cc50d85d94f3cffb17
-
-
 # 👣 **Awesome python projects**
 ### 🧐 A collection of super-cool Python projects for starters!! ✨
 
@@ -38,6 +35,9 @@ Create a basic model and view in Django
 ONLY PYTHON 👨‍💻
 * Python
 * Python / Django
+
+< ## &nbsp; Certificate:
+- Link: [https://coursera.org/share/090996be84bc89cc50d85d94f3cffb17]
 
 >## 📝&nbsp; Learning Resources
 
