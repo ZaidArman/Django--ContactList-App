@@ -4,18 +4,6 @@
 ### 🧐 A collection of super-cool Python projects for starters!! ✨
 
 ![Author](https://img.shields.io/badge/author-ZaidArman-orange)
-![Author](https://img.shields.io/badge/author-mrinal41298-orange)
-<!-- ![License](https://img.shields.io/badge/license-MIT-brightgreen) -->
-<!-- ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue) -->
-<!-- ![Maintained](https://img.shields.io/maintenance/yes/2020) -->
-<!-- ![Last Commit](https://img.shields.io/github/last-commit/garimasingh128/awesome-python-projects) -->
-<!-- ![Release Date](https://img.shields.io/github/release-date/garimasingh128/awesome-python-projects) -->
-<!-- ![Issues](https://img.shields.io/github/issues/garimasingh128/awesome-python-projects) -->
-<!-- ![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/awesome-python-projects) -->
-<!-- ![Language](https://img.shields.io/github/languages/top/garimasingh128/awesome-python-projects) -->
-<!-- ![Size](https://img.shields.io/github/repo-size/garimasingh128/awesome-python-projects) -->
-
-
 
 # This project is a part of #Django learning  👣
   OPEN SOURCE Course - Create a basic contacts list web app using Django by Coursera 
@@ -46,9 +34,6 @@ Read these articles to get a quick grab on Python:
 - https://www.learnpython.org
 - https://www.programiz.com/python-programming
 
-Resources to learn Git:
--  https://try.github.io/
-
 Resources to learn Django:
 -  https://www.coursera.org/specializations/django?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-automation_FTCOF_professional-certificates_arte-re-PMAX_non-nrl_after14D&utm_content=B2C&campaignid=19201532531&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adpostion=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNcPHWhKoz-ccpsehBBpqdBRTs-mxJVqd70kZM-KiQzhXlCJn1pW8toaAv33EALw_wcB
 
@@ -61,5 +46,5 @@ Resources to learn Django:
 <a href="https://github.com/ZaidArman"><br /><sub><b>Zaid Ullah</b></sub></a><br/>
 
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ZaidArman/) 
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/zaid-ullah07/) 
 
